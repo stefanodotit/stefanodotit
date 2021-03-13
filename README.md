@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stefanodotit
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Cybersecurity
